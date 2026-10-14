@@ -1,4 +1,13 @@
-# GTA Studio
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/gta-studio/.github/main/profile/gtastudiocover.png"
+    alt="GTA Studio"
+    width="220"
+  />
+</p>
+
+<br>
 
 **Independent GTA Software Development & Modding**
 
@@ -8,4 +17,6 @@ Our work spans multiplayer development, game modifications, custom technologies,
 
 ---
 
-*GTA Studio is not affiliated with, endorsed by, or sponsored by Rockstar Games, Rockstar North, or Take-Two Interactive Software, Inc. Grand Theft Auto and GTA are trademarks of Take-Two Interactive Software, Inc.*
+<sub><em>
+GTA Studio is not affiliated with, endorsed by, or sponsored by Rockstar Games, Rockstar North, or Take-Two Interactive Software, Inc. Grand Theft Auto and GTA are trademarks of Take-Two Interactive Software, Inc.
+</em></sub>
